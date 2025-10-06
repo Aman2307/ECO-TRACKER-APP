@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ECO-TRACKER-APP/static/css/main.be62524b.css",
+    "main.js": "/ECO-TRACKER-APP/static/js/main.2c53465a.js",
+    "index.html": "/ECO-TRACKER-APP/index.html",
+    "main.be62524b.css.map": "/ECO-TRACKER-APP/static/css/main.be62524b.css.map",
+    "main.2c53465a.js.map": "/ECO-TRACKER-APP/static/js/main.2c53465a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be62524b.css",
+    "static/js/main.2c53465a.js"
+  ]
+}
